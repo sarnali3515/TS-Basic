@@ -26,3 +26,5 @@ let coordinates: [number, number] = [1, 5]
 let ageName: [number, string, boolean] = [50, 'abc', true]
 
 ageName[0] = 77
+
+console.log(ageName);
