@@ -17,7 +17,7 @@
         model: 'kw66',
         display: 'Oled'
     }
-
+    //1
     const poorDeveloper: Developer<EmilabWatch> = {
         name: 'sarnali',
         computer: {
@@ -43,7 +43,7 @@
         model: string;
         engineCapacity: string
     }
-
+    //2
     const richDeveloper: Developer<AppleWatch, YamahaBike> = {
         name: 'manaf',
         computer: {
