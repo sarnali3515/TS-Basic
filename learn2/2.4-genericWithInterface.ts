@@ -1,6 +1,6 @@
 {
     //
-    //generic interface
+    //generic with interface
     interface Developer<T, X = null> {
         name: string;
         computer: {
